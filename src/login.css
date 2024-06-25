@@ -18,6 +18,9 @@ a{
     
 
 }
+html,body{
+    background-color: #F6F8FA;
+  }
 a:hover{
     background-color: aqua;
 }

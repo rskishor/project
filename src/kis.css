@@ -1,0 +1,59 @@
+#ui{
+position: absolute;
+bottom: -1200px;
+margin-left: 120px;
+}
+#mn{
+position: absolute;
+bottom: -1350px;
+padding-left: 120px;
+font-size: small;
+color: grey;
+}
+#pop{
+position: absolute;
+bottom: -1200px;
+padding-left: 600px;
+}
+#opp{
+    position: absolute;
+    bottom: -1350px;
+    padding-left: 600px;
+    font-size: small;
+    color: gray;
+}
+#even{
+    position: absolute;
+    bottom: -1200px;
+    padding-left: 1030px;
+}
+#null{
+    position: absolute;
+    bottom: -1370px;
+    padding-left:1030px;
+    font-size: small;
+    color: gray;
+}
+#skill{
+    position: absolute;
+    bottom: -1600px;
+    padding-left:150px;
+    font-size: 50px;
+}
+#all{
+    position: absolute;
+    bottom: -2000px;
+    padding-left: 140px;
+}
+.mark{
+    background-color: white;
+    width: 430px;
+    height: 20px;
+    border-radius: 20px;
+}
+.my{
+background-color: #009BDF;
+width: 250px;
+height: 20px;
+border-radius: 20px;
+}
