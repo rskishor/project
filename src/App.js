@@ -1,6 +1,7 @@
 import React from "react";
 import './login.css';
 import Profile from "./profile";
+import Ui from "./kishor";
 const Login = () =>{
   return(
     <>
@@ -26,6 +27,7 @@ const Login = () =>{
 
 
 <Profile />
+<Ui />
     </>
   );
 };

@@ -6,3 +6,43 @@ border-radius: 350px;
 margin-left:750px;
 margin-top: 50px;
 }
+#q{
+
+padding-left: 150px;
+position: absolute;
+bottom: -250px;
+}
+#w{
+color: blue;
+position: absolute;
+bottom: -140px;
+}
+#p{
+padding-left: 150px;
+color: blue;
+position: absolute;
+bottom: -450px;
+}
+#small{
+position: absolute;
+bottom: -700px;
+padding-left: 750px;
+font-size: 120%;
+
+}
+#o{
+position: absolute;
+padding-left: 750px;
+bottom: -740px;
+color: blue;
+}
+#sim{
+    position: absolute;
+    bottom: -950px;
+    padding-left: 150px;
+    font-size: 50px;
+}
+#poi{
+    position: absolute;
+    bottom: -1000px;
+}
