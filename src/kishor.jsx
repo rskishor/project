@@ -31,7 +31,7 @@ return(
     </div>
 <div>
     <div id="all">
-        <h1 id="skill">SKILL</h1>
+        <h5 id="skill">SKILLS</h5>
 <div>
     <h4>HTML</h4>
     <div class="mark"><div id="html">90%</div></div>
@@ -45,6 +45,12 @@ return(
     <div class="mark"><div id="mysql">70%</div></div>
 </div>
 </div>
+</div>
+<div>
+    <h1 id="exp">MY EXPERIENCE</h1>
+</div>
+<div>
+    
 </div>
     </>
 );

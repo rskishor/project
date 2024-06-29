@@ -36,9 +36,9 @@ padding-left: 600px;
 }
 #skill{
     position: absolute;
-    bottom: -1600px;
-    padding-left:150px;
-    font-size: 50px;
+    bottom: 380px;
+    padding-left:1px;
+    font-size: 40px;
 }
 #all{
     position: absolute;
@@ -86,4 +86,10 @@ padding-left: 600px;
     width: 180px;
     height: 20px;
     border-radius: 20px;
+}
+#exp{
+    position: absolute;
+    bottom: -1557px;
+    padding-left: 750px;
+
 }
