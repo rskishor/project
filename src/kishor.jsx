@@ -1,7 +1,6 @@
 import React from "react";
 import './kis.css';
 const Ui = () =>{
-
 return(
     <>
     <div>
@@ -21,7 +20,6 @@ return(
             am a well-established<br></br>
             professional to help you with this.</h6>
     </div>
-
     <div>
         <h2 id="even">APP DEVELOPMENT</h2>
         <h6 id="null">If you are looking for a user-<br></br>
@@ -31,33 +29,24 @@ return(
         the latest and trendiest look and<br></br>
         feel.</h6>
     </div>
-    
 <div>
     <div id="all">
         <h1 id="skill">SKILL</h1>
 <div>
     <h4>HTML</h4>
-    <div class="mark"><div class="my">80%</div></div>
+    <div class="mark"><div id="html">90%</div></div>
     <h4>CSS</h4>
-    <div class="mark"><div class="my">80%</div></div>
+    <div class="mark"><div id="css">80%</div></div>
     <h4>Javascript</h4>
-    <div class="mark"><div class="my">80%</div></div>
+    <div class="mark"><div id="javascript">70%</div></div>
     <h4>PYTHON</h4>
-    <div class="mark"><div class="my">80%</div></div>
+    <div class="mark"><div id="python">80%</div></div>
+    <h4>SQL</h4>
+    <div class="mark"><div id="mysql">70%</div></div>
 </div>
 </div>
 </div>
     </>
-
-
-
-
-
-
-
-
-
 );
-
 };
 export default Ui;

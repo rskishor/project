@@ -47,13 +47,43 @@ padding-left: 600px;
 }
 .mark{
     background-color: white;
-    width: 430px;
+    width: 290px;
     height: 20px;
     border-radius: 20px;
 }
-.my{
-background-color: #009BDF;
-width: 250px;
-height: 20px;
-border-radius: 20px;
+#html{
+    background-color: #009BDF;
+    width: 250px;
+    height: 20px;
+    border-radius: 20px;
+    color: white;
+}
+#css{
+    color: white;
+    background-color: #009BDF;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+}
+#javascript{
+    color: white;
+    background-color: #009BDF;
+    width: 170px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+#python{
+    background-color: #009BDF;
+    width: 200px;
+    height: 20px;
+    color: white;
+    border-radius: 20px;
+}
+#mysql{
+    color: white;
+    background-color: #009BDF;
+    width: 180px;
+    height: 20px;
+    border-radius: 20px;
 }
