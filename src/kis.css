@@ -93,3 +93,39 @@ padding-left: 600px;
     padding-left: 750px;
 
 }
+#top1{
+    color: #009BDF;
+    position: absolute;
+    bottom: -1650px;
+    padding-left: 780px;
+}
+#para1{
+    position: absolute;
+    bottom: -1730px;
+    padding-left: 780px;
+    font-size: 15px;
+}
+#top2{
+    color: #009BDF;
+    position: absolute;
+    bottom: -1800px;
+    padding-left: 780px;
+}
+#para2{
+    position: absolute;
+    bottom: -1900px;
+    padding-left: 780px;
+    font-size: 15px;
+}
+#top3{
+    color: #009BDF;
+    position: absolute;
+    bottom: -1980px;
+    padding-left: 780px;
+}
+#para3{
+    position: absolute;
+    bottom: -2070px;
+    padding-left: 780px;
+    font-size: 15px;
+}

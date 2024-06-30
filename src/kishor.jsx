@@ -48,9 +48,23 @@ return(
 </div>
 <div>
     <h1 id="exp">MY EXPERIENCE</h1>
+    <h4 id="top1">LEAD UI/UX DESIGNER</h4>
+    <h6 id="para1">I have responsibly led a team of 12 designers to help,<br></br>
+        supervise and approve their designs to make sure it<br></br>
+        matches client expectations and latest design standards.</h6>
 </div>
 <div>
-    
+    <h4 id="top2">WEB DEVELOPER</h4>
+    <h6 id="para2">I was responsible for all the in-house and client-based web<br></br>
+        development assignments. I take pride in having helped the<br></br>
+        best of clients and getting maximum ratings for the<br></br>
+        company.</h6>
+</div>
+<div>
+    <h4 id="top3">UI/UX DESIGNER</h4>
+    <h6 id="para3">I was a part of an amazing design team and worked together<br></br>
+        with them to help design and develop apps and websites for<br></br>
+        different clients of the company.</h6>
 </div>
     </>
 );
