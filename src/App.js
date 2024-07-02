@@ -20,6 +20,9 @@ const Login = () =>{
 
 <h1 id="gg">KISHOR</h1>
 <h2 id="hh">Web Developer</h2>
+<h4 id="ph">+919994056902</h4>
+<h4 id="gm">arjunkishor33@gmail.com</h4>
+
 
 
 </div>

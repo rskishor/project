@@ -41,8 +41,15 @@ a:hover{
     font-size: 200%;
     position: absolute;
     top: 170px;
-
-
-
+}
+#ph{
+    position: absolute;
+    bottom: -110px;
+    padding-left: 50px;
+}
+#gm{
+    position: absolute;
+    bottom: -140px;
+    padding-left: 50px;
 
 }
