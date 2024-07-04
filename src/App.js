@@ -23,11 +23,12 @@ const Login = () =>{
 <h4 id="ph">+919994056902</h4>
 <h4 id="gm">arjunkishor33@gmail.com</h4>
 <img src=""></img>
-
-
-
 </div>
 
+
+  <div>
+<h1 id="lat">PORTFOLIO</h1>
+  </div>
 
 
 <Profile />

@@ -51,5 +51,10 @@ a:hover{
     position: absolute;
     bottom: -140px;
     padding-left: 50px;
+}
+#lat{
+    position: absolute;
+    bottom:-2350px;
+    padding-left: 150px;
 
 }
